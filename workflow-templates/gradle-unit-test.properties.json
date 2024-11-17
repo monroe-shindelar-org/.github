@@ -1,0 +1,9 @@
+{
+    "name": "Gradle Unit Tests",
+    "description": "Runs gradle unit tests",
+    "categories": [
+        "testing",
+        "Java",
+        "Gradle"
+    ]
+}
